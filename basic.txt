@@ -1,0 +1,54 @@
+C++ is an advanced version of C
+C is procedural, whereas CPP is an object-oriented programming language. 
+
+
+What is OoPS? 
+It deals with real-world entities or real-world problems. 
+
+- Basics
+- scan
+- conditional
+- loop
+- array
+- functions
+- pointer
+- structure
+
+
+Four pillars of OoPS
+1. Inheritance
+2. Polymorphism
+3. Abstraction
+4. Encapsulation
+
+template 
+namespace 
+exception handling 
+file handling 
+
+
+printf
+cout 
+
+scanf
+cin 
+
+cout << "My age is" << age << " and my marks are \n"<<marks<<endl<<;
+console.log("My age is "  + age + "")
+
+
+
+scanf("%d", &a);
+cin >> a >> b ;
+
+string 
+boolean 
+
+
+Operator 
+-------
+1. Arithmetic operators 
+2. Relational Operator   <  >  <=  >=  == != 
+3. Assignment Operator
+4. Logical Operator    &&   ||   !
+5. increment / Decrement 
