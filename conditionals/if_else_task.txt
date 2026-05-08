@@ -1,0 +1,234 @@
+If Task (Only runs when condition is true)
+------------------------------------------
+1) Enter a number to check it is even  
+2) Enter a number to check it is odd  
+3) Enter a number to check it is positive  
+4) Enter a number to check it is negative  
+5) Enter a number and check if it is less than 100  
+6) Enter a number and check it is divisible by 5  
+7) Enter a number and check it is not divisible by 11  
+8) Enter a number and check it is divisible by 3 and 5  
+9) Enter a number and check it is not divisible by 7 and 9  
+10) Ask the user for their age. If age is above 60, print "Senior Citizen"  
+11) Take a character input. If it is 'A', print "You pressed A"  
+12) Enter a character. If it is a digit (0–9), print "It is a digit"  
+13) Ask user for their name. If it is equal to "admin", print "Welcome Admin"  
+14) Input 2 angles of a triangle. If their sum is < 180, print "Third angle possible"  
+15) Enter a character. If it's a vowel (a, e, i, o, u), print "Vowel entered"
+
+If..else Task (Prints for true and false part)
+-------------
+1) Take a number and check if it is even or odd.
+2) Take a number and check if it is positive or negative.
+3) Ask the user to enter their age : 
+	if age ≥ 18 print "Adult" 
+	else print "Minor"
+	
+4) Input marks from user and 
+	if marks >= 40 then print "pass" ,
+	else "fail".
+	
+5) Input a temperature. 
+	If it’s >30, print "Hot", 
+	else "Cool".
+	
+6) Ask the user for their gender ('M' or 'F'): 
+	If 'M', print "Hello Sir"
+	Else, print "Hello Ma'am"
+	
+7) Enter a character. Print: 
+	"Uppercase Letter" if capital, 
+	"Not Uppercase" otherwise.
+	
+8) Enter your bank balance: 
+	If ≥ ₹5000, print "Sufficient Balance"
+	Else print "Low Balance Warning"
+	
+9) Input a number and print:
+	"Divisible by 3" if divisible,
+	"Not Divisible by 3" otherwise
+	
+10) Input a number and: 
+	If divisible by either 3 or 5 → "Valid" 
+	Else → "Invalid"
+	
+11) Input marks of two subjects: 
+	If both ≥ 40 → "Passed both" 
+	Else → "Failed in one or both"
+	
+12) Input a number and: 
+	If number is between 100 and 999, print "Three-Digit Number" 
+	Else print "Not a Three-Digit Number"
+	
+13) Take two numbers from user and prints maximum from both number.
+14) Take two numbers and prints print minimum from both number.
+15) Input a number from user 
+	if number is greater than 100 , then input another number from user and print sum of two numbers 
+	else print number less than 100
+	
+16) Ask user for income: 
+	If > ₹10,00,000 → "Taxable Income" and add 15 % tax on the income and print complete amount on screen 
+	Else → "No Tax"
+	
+17) Input day number (1–7): 
+	If 6 or 7 → "Weekend" 
+	Else → "Weekday"
+	
+18) Write a program to check the entered character is vowel or consonant
+19) Write a program to check whether the entered character is Uppercase or Lowercase
+
+Ladder if..else Task
+--------------------
+1) Input marks and print grades:
+	≥90 → Grade A
+	75–89 → Grade B
+	50–74 → Grade C
+	<50 → Grade D
+2) Enter a number and check:
+	Positive
+	Negative
+	Zero
+3) Enter time (in 24-hour format) and print:
+	Morning (5–11)
+	Afternoon (12–16)
+	Evening (17–20)
+	Night (21–4)
+4) Take three numbers and print the largest one using else-if ladder.
+5) Take three numbers and print the smallest one using else-if ladder.
+6) Enter a month number (1–12) and print the month name:
+	1 → January
+	2 → February
+	…
+	12 → December
+7) Enter a character and identify:
+	Vowel (a, e, i, o, u)
+	Consonant
+	Digit
+	Special character
+8) Input total salary and classify:
+	≥ 1,00,000 → High income
+	50,000–99,999 → Middle income
+	20,000–49,999 → Low income
+	< 20,000 → Very low income
+9) Enter number of working days and days present; calculate attendance %:
+	≥ 90% → Excellent
+	75–89% → Good
+	50–74% → Average
+	< 50% → Poor
+10) Input electricity units used and decide rate:
+	0–100 units → ₹2/unit
+	101–300 units → ₹3/unit
+	301–500 units → ₹5/unit
+	500 units → ₹8/unit
+11) Input two numbers and operator (+, -, *, /):
+	Use else-if to perform the selected operation.
+12) Enter triangle angles a, b, c:
+	If valid (a + b + c = 180), check:
+		All equal → Equilateral
+		Any two equal → Isosceles
+		All different → Scalene
+		Else → Not a triangle
+13) Input weight(in kg) and height(in meters) → calculate BMI and classify:
+	BMI = weight / (height * height)
+		BMI < 18.5 → Underweight
+		18.5–24.9 → Normal
+		25–29.9 → Overweight
+		30+ → Obese
+14) Enter student's total fee paid (from total ₹20,000):
+		≥ 20,000 → "Fully Paid"
+		15,000–19,999 → "75% Paid"
+		10,000–14,999 → "50% Paid"
+		< 10,000 → "Pending Payment"
+15) Input number of leaves taken in month and input number of days in months:
+	0 → Perfect Attendance
+	1–3 → Excellent
+	4–7 → Average
+	7 → Warning Issued
+16) Electricity Bill Calculator
+Ask units consumed:
+	If units ≤ 100 → ₹2 /unit
+	Else if ≤ 300
+		₹2 /unit for first 100
+		₹3 /unit for next till 300
+	Else
+		 ₹2 /unit for 100
+		 ₹3 /unit for 200
+		 ₹5 /unit for rest
+		
+Nested If..else Task 
+---------------------
+1) Check whether number is 
+	odd and negative
+	odd and positive
+	even and positive
+	even and negative
+2) Find max between three numbers
+3) Find min between three numbers
+4) Voter Eligibility with Age Check		Ask user age:
+	If age ≥ 18
+		If age ≥ 60 → "Senior Citizen Voter"
+		Else → "Regular Voter"
+	Else → "Not Eligible to Vote"
+5) Even/Odd & Divisibility		Ask a number:
+	If number is even
+		Check if it's divisible by 4
+	Else
+	Check if it's divisible by 3
+6)  Time Slot Greeting with AM/PM	
+    Input hour (1–12) and AM/PM:
+	If AM (slot == 1)
+		If hour ≤ 6 → "Very Early Morning"
+				7–11 → "Good Morning"
+	If PM (slot == 2)
+		If hour ≤ 4 → "Good Afternoon"
+				5–8 → "Good Evening"
+	Else → "Good Night"
+7) ) Exam Marks + Bonus Logic	Ask test marks and participation in 2 events (Y/N):
+	If marks ≥ 85
+		If participated in both events → "Certificate + Bonus Marks"
+		else If participated in one → "Certificate"
+	Else
+		If events done → "Encouragement Note"
+		Else → "No Bonus"
+8) Employee Salary Slip Simulation	Input:
+	Basic Salary
+	If salary > 20000
+		HRA = 25%, DA = 90%
+	Else
+		HRA = 20%, DA = 80%
+	Calculate and print Gross Salary
+9) Nested Bank Loan Eligibility Checker	
+Inputs:
+	Age
+	Monthly Income
+	Credit Score	
+Logic:
+	If age ≥ 21
+		If income ≥ 25,000
+			If credit score ≥ 750 → “Eligible for Full Loan”
+						  650–749 → “Eligible with Guarantee”
+			                < 650 → “Loan Rejected: Poor Credit”
+			Else → “Income Too Low”
+	Else → “Too Young for Loan”
+10) Real-time Billing with Discount & Tax
+	Inputs:
+		Total Bill Amount
+	    Customer type (1-Regular, 2-Member, 3-Premium)
+	Logic:
+		If amount ≥ 5000
+			Regular → 5% discount
+			Member → 10% discount
+			Premium → 15% discount
+		Else
+			Regular → No discount
+			Member → 5%
+			Premium → 10%
+			
+		After discount, apply 18% GST → Final Bill
+	
+	
+****** Simulators ******
+1) Parking Reservation System          
+2) Login System (with 3 attempts)          
+3) Hotel Menu                      
+4) ATM Simulator                     
