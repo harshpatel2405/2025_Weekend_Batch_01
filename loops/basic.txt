@@ -1,0 +1,24 @@
+Loops 
+-----
+1. Entry Controlled Loop 
+    for 
+    while 
+
+2. Exit Controlled Loop 
+    do..while 
+
+1. print 1 to n 
+2. Sum 
+3. odd_even_print
+4. odd_even_sum
+5. multiplication table 
+6. exponent (base , power)
+7. factorial 
+8. Average of 1 to n
+
+1. Count 
+2. print 
+3. sum 
+4. multiplication
+5. reverse 
+7. palindrome 
