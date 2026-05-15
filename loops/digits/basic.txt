@@ -1,0 +1,22 @@
+Print
+count 
+sum 
+multiplication
+odd
+even 
+reverse 
+search a digit in the number
+
+palindrome 
+armstrong 
+harshad number
+Strong or Krishnamurthy number 
+automorphic number 
+
+Check which digits are prime 
+Check which digits are perfect 
+Find factorial  of digits 
+
+IF any digit is zero , remove that from the number and make a new number 
+102030102 -> 12312
+
