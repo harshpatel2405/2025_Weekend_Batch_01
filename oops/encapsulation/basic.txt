@@ -1,0 +1,7 @@
+hiding unnecessary information and showing only imp information to the user
+
+getter and setter 
+getter - used to fetch data from user 
+setter - used to set data in object 
+
+pure encapsulation -- all varaibles private and accessible only through method 

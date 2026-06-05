@@ -1,0 +1,11 @@
+OOPS
+----
+Class and Object 
+
+class -- properties + behaviours + access level 
+
+properties -- variables , data members 
+behaviours -- methods , member functions 
+access specifiers -- private(default) , public , protected
+
+class == advanced structure 

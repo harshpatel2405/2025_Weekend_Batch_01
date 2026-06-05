@@ -1,0 +1,23 @@
+Static 
+------
+Static means for every call it will share same memory 
+it works for class not object
+
+student age ,marks , name 
+static int studentCount = 0
+
+studentCount++;
+
+s1 
+23       1500
+98.56    1504
+Harsh    1508
+0        1516
+
+
+
+s2 
+22     1700
+56.56  1704
+Vasu   1708
+1      1516
