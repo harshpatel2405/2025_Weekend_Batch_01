@@ -1,0 +1,5 @@
+Friend Function 
+
+Can access even private properties of the class
+
+friend functionPrototype(args);

@@ -1,0 +1,23 @@
+Constructor 
+-----------
+A special function 
+does not have any return type 
+Constructor name is same as class name 
+
+class Student 
+{
+    Student()
+    {
+
+    }
+}
+
+
+Types 
+-----
+1. Default / non - parameterized Constructor
+2. parameterized Constructor
+3. copy Constructor
+
+
+** When more than 1 Constructor are made in a single class it is called Constructor Overloading
