@@ -1,0 +1,42 @@
+Inheritance 
+-----------
+Parents values can be accessed by the child + child's own properties 
+
+Reusability of code
+
+class B : public A
+
+public public 
+protected
+
+=========================================
+Types 
+-----
+1. Single Inheritance 
+    A
+    |
+    B 
+    
+2. MultiLevel Inheritance
+    A
+    |
+    B 
+    |
+    C
+
+3. Multiple Inheritance
+    A     B 
+     \   /
+       C
+
+4. Hierarchical Inheritance
+       A
+     /   \
+    B     C 
+    
+5. Hybrid Inheritance  (Multiple + Hierarchical)
+          A
+        /   \
+       B     C 
+        \   /
+          D

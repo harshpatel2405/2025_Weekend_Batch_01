@@ -1,0 +1,131 @@
+=========================================
+QUESTION 1: VEHICLE AND CAR
+=========================================
+
+Create a base class Vehicle with the following data members:
+
+- companyName
+- fuelType
+
+Create a derived class Car that inherits from Vehicle and adds:
+
+- modelName
+- price
+
+Requirements:
+1. Accept all details from the user.
+2. Display complete car information.
+3. Use Single Inheritance.
+4. use constructor and make display function
+
+Sample Output:
+
+----- Car Details -----
+Company Name : Toyota
+Fuel Type    : Petrol
+Model Name   : Fortuner
+Price        : 4500000
+
+
+=========================================
+QUESTION 2: EMPLOYEE AND MANAGER
+=========================================
+
+Create a base class Employee with the following data members:
+
+- employeeId
+- employeeName
+- monthlySalary
+
+Create a derived class Manager that inherits from Employee and adds:
+
+- department
+
+Requirements:
+1. Accept all employee and manager details from the user.
+2. Display complete information.
+3. Calculate and display Annual Salary.
+
+Formula:
+Annual Salary = Monthly Salary × 12
+
+4. Use Single Inheritance.
+5. Create separate functions for input, calculation, and display.
+
+Sample Output:
+
+----- Manager Details -----
+Employee ID   : 101
+Name          : Krishna
+Department    : IT
+Monthly Salary: 80000
+
+Annual Salary : 960000
+
+
+=========================================
+QUESTION 3: BANK ACCOUNT AND SAVINGS ACCOUNT
+=========================================
+
+Create a base class BankAccount with the following data members:
+
+- accountNumber
+- accountHolderName
+- balance
+
+Create a derived class SavingsAccount that inherits from BankAccount and adds:
+
+- interestRate
+
+Requirements:
+1. Accept account details from the user.
+2. Calculate the interest amount.
+3. Display complete account information.
+4. Use Single Inheritance.
+
+Formula:
+Interest = Balance × Interest Rate / 100
+
+Sample Output:
+
+----- Account Details -----
+Account Number : 12345
+Holder Name    : Dev
+Balance        : 50000
+Interest Rate  : 6
+
+Interest Earned: 3000
+
+
+=========================================
+QUESTION 4: SHAPE AND RECTANGLE
+=========================================
+
+Create a base class Shape with the following data members:
+
+- length
+- breadth
+
+Create a derived class Rectangle that inherits from Shape.
+
+Requirements:
+1. Accept length and breadth from the user.
+2. Calculate Area of the Rectangle.
+3. Calculate Perimeter of the Rectangle.
+4. Display all results.
+5. Use Single Inheritance.
+
+Formulas:
+
+Area = Length × Breadth
+
+Perimeter = 2 × (Length + Breadth)
+
+Sample Output:
+
+----- Rectangle Details -----
+Length    : 10
+Breadth   : 5
+
+Area      : 50
+Perimeter : 30
